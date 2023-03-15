@@ -1,0 +1,6 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "vscode-pets.petSize": "small",
+  "vscode-pets.petType": "mod"
+}
